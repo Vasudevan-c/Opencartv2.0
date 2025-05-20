@@ -1,0 +1,205 @@
+09:35:23.491 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\vasud\Desktop\testing class\OpencartV1.0\src\test\java\testCase\testng.xml"
+09:35:23.963 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\vasud\Desktop\testing class\OpencartV1.0\src\test\java\testCase\testng.xml
+
+09:35:27.391 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:15)oggger - *****TC001_Verify_Account_Registration******
+09:35:27.623 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:21)oggger - **Clicked My Acoount**
+09:35:28.469 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:23)oggger - **Registered My Acoount**
+09:35:30.243 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:42)oggger - **Successfully Enter the All Details**
+09:35:30.310 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:49)oggger - Confirmation message received: Your Account Has Been Created!
+09:35:30.311 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:64)oggger - Account register completed
+17:18:36.038 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\vasud\Desktop\testing class\OpencartV1.0\src\test\java\testCase\testng.xml"
+17:18:36.290 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\vasud\Desktop\testing class\OpencartV1.0\src\test\java\testCase\testng.xml
+
+17:18:42.750 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:15)oggger - *******Starting Account Login*********
+17:18:42.751 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:17)oggger - Clicked My Account
+17:18:42.889 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:21)oggger - Clicked Login
+17:18:43.111 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:23)oggger - Sending valid credentials to Login and Click the Button
+17:18:43.284 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:29)oggger - Checking Account Page Exists or Not 
+17:18:43.852 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:35)oggger - **************LogIn successfully Completed*******************
+17:19:16.305 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\vasud\Desktop\testing class\OpencartV1.0\src\test\java\testCase\testng.xml"
+17:19:16.502 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\vasud\Desktop\testing class\OpencartV1.0\src\test\java\testCase\testng.xml
+
+17:21:41.464 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\vasud\Desktop\testing class\OpencartV1.0\src\test\java\testCase\testng.xml"
+17:21:41.655 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\vasud\Desktop\testing class\OpencartV1.0\src\test\java\testCase\testng.xml
+
+17:21:43.890 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:15)oggger - *******Starting Account Login*********
+17:21:43.890 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:17)oggger - Clicked My Account
+17:21:44.005 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:21)oggger - Clicked Login
+17:21:44.230 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:23)oggger - Sending valid credentials to Login and Click the Button
+17:21:44.934 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:29)oggger - Checking Account Page Exists or Not 
+17:21:44.982 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:35)oggger - **************LogIn successfully Completed*******************
+05:29:28.323 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\vasud\Desktop\testing class\OpencartV1.0\src\test\java\testCase\testng.xml"
+05:29:28.934 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\vasud\Desktop\testing class\OpencartV1.0\src\test\java\testCase\testng.xml
+
+05:29:36.544 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:15)oggger - *******Starting Account Login*********
+05:29:36.545 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:17)oggger - Clicked My Account
+05:29:36.801 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:21)oggger - Clicked Login
+05:29:37.140 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:23)oggger - Sending valid credentials to Login and Click the Button
+05:29:37.619 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:29)oggger - Checking Account Page Exists or Not 
+05:29:38.441 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:35)oggger - **************LogIn successfully Completed*******************
+05:30:08.324 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\vasud\Desktop\testing class\OpencartV1.0\src\test\java\testCase\testng.xml"
+05:30:08.830 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\vasud\Desktop\testing class\OpencartV1.0\src\test\java\testCase\testng.xml
+
+05:30:12.643 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:15)oggger - *****TC001_Verify_Account_Registration******
+05:30:12.878 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:21)oggger - **Clicked My Acoount**
+05:30:13.617 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:23)oggger - **Registered My Acoount**
+05:30:15.764 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:42)oggger - **Successfully Enter the All Details**
+05:30:15.838 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:49)oggger - Confirmation message received: Your Account Has Been Created!
+05:30:15.838 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:64)oggger - Account register completed
+05:30:19.421 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:15)oggger - *******Starting Account Login*********
+05:30:19.422 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:17)oggger - Clicked My Account
+05:30:19.594 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:21)oggger - Clicked Login
+05:30:20.176 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:23)oggger - Sending valid credentials to Login and Click the Button
+05:30:22.106 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:29)oggger - Checking Account Page Exists or Not 
+05:30:22.207 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:35)oggger - **************LogIn successfully Completed*******************
+05:56:06.056 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\vasud\Desktop\testing class\OpencartV1.0\src\test\java\testCase\testng.xml"
+05:56:24.452 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\vasud\Desktop\testing class\OpencartV1.0\src\test\java\testCase\testng.xml"
+05:56:24.930 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\vasud\Desktop\testing class\OpencartV1.0\src\test\java\testCase\testng.xml
+
+05:56:50.373 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\vasud\Desktop\testing class\OpencartV1.0\src\test\java\testCase\testng.xml"
+05:56:50.821 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\vasud\Desktop\testing class\OpencartV1.0\src\test\java\testCase\testng.xml
+
+05:57:37.818 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\vasud\Desktop\testing class\OpencartV1.0\src\test\java\testCase\testng.xml"
+05:57:38.285 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\vasud\Desktop\testing class\OpencartV1.0\src\test\java\testCase\testng.xml
+
+06:01:31.273 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\vasud\Desktop\testing class\OpencartV1.0\src\test\java\testCase\testng.xml"
+06:01:31.781 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\vasud\Desktop\testing class\OpencartV1.0\src\test\java\testCase\testng.xml
+
+06:01:37.108 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:15)oggger - *****TC001_Verify_Account_Registration******
+06:01:37.365 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:21)oggger - **Clicked My Acoount**
+06:01:37.923 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:23)oggger - **Registered My Acoount**
+06:01:39.970 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:42)oggger - **Successfully Enter the All Details**
+06:01:40.053 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:49)oggger - Confirmation message received: Your Account Has Been Created!
+06:01:40.053 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:64)oggger - Account register completed
+06:01:42.876 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:15)oggger - *******Starting Account Login*********
+06:01:42.876 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:17)oggger - Clicked My Account
+06:01:43.045 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:21)oggger - Clicked Login
+06:01:43.409 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:23)oggger - Sending valid credentials to Login and Click the Button
+06:01:44.623 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:29)oggger - Checking Account Page Exists or Not 
+06:01:44.740 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:35)oggger - **************LogIn successfully Completed*******************
+06:03:20.570 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\vasud\Desktop\testing class\OpencartV1.0\src\test\java\testCase\testng.xml"
+06:03:21.072 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\vasud\Desktop\testing class\OpencartV1.0\src\test\java\testCase\testng.xml
+
+06:07:11.131 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\vasud\Desktop\testing class\OpencartV1.0\src\test\java\testCase\testng.xml"
+06:07:11.677 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\vasud\Desktop\testing class\OpencartV1.0\src\test\java\testCase\testng.xml
+
+06:07:15.256 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:15)oggger - *****TC001_Verify_Account_Registration******
+06:07:15.489 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:21)oggger - **Clicked My Acoount**
+06:07:15.930 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:23)oggger - **Registered My Acoount**
+06:07:17.749 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:42)oggger - **Successfully Enter the All Details**
+06:07:17.818 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:49)oggger - Confirmation message received: Your Account Has Been Created!
+06:07:17.819 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:64)oggger - Account register completed
+06:07:20.510 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:15)oggger - *******Starting Account Login*********
+06:07:20.511 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:17)oggger - Clicked My Account
+06:07:20.708 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:21)oggger - Clicked Login
+06:07:21.168 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:23)oggger - Sending valid credentials to Login and Click the Button
+06:07:22.244 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:29)oggger - Checking Account Page Exists or Not 
+06:07:22.337 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:35)oggger - **************LogIn successfully Completed*******************
+07:29:11.844 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\vasud\Desktop\testing class\OpencartV1.0\src\test\java\testCase\testng.xml"
+07:29:12.373 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\vasud\Desktop\testing class\OpencartV1.0\src\test\java\testCase\testng.xml
+
+07:29:17.174 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:15)oggger - *****TC001_Verify_Account_Registration******
+07:29:17.418 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:21)oggger - **Clicked My Acoount**
+07:29:17.945 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:23)oggger - **Registered My Acoount**
+07:29:19.950 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:42)oggger - **Successfully Enter the All Details**
+07:29:20.037 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:49)oggger - Confirmation message received: Your Account Has Been Created!
+07:29:20.037 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:64)oggger - Account register completed
+07:29:23.979 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:15)oggger - *******Starting Account Login*********
+07:29:23.979 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:17)oggger - Clicked My Account
+07:29:24.172 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:21)oggger - Clicked Login
+07:29:24.610 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:23)oggger - Sending valid credentials to Login and Click the Button
+07:29:25.879 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:29)oggger - Checking Account Page Exists or Not 
+07:29:25.989 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:35)oggger - **************LogIn successfully Completed*******************
+07:34:03.814 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\vasud\Desktop\testing class\OpencartV1.0\src\test\java\testCase\testng.xml"
+07:34:04.307 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\vasud\Desktop\testing class\OpencartV1.0\src\test\java\testCase\testng.xml
+
+07:34:08.134 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:15)oggger - *****TC001_Verify_Account_Registration******
+07:34:08.377 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:21)oggger - **Clicked My Acoount**
+07:34:08.871 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:23)oggger - **Registered My Acoount**
+07:34:10.915 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:42)oggger - **Successfully Enter the All Details**
+07:34:10.992 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:49)oggger - Confirmation message received: Your Account Has Been Created!
+07:34:10.992 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:64)oggger - Account register completed
+07:34:13.909 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:15)oggger - *******Starting Account Login*********
+07:34:13.910 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:17)oggger - Clicked My Account
+07:34:14.114 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:21)oggger - Clicked Login
+07:34:14.611 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:23)oggger - Sending valid credentials to Login and Click the Button
+07:34:15.081 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:29)oggger - Checking Account Page Exists or Not 
+07:34:15.892 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:35)oggger - **************LogIn successfully Completed*******************
+07:38:00.895 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\vasud\Desktop\testing class\OpencartV1.0\src\test\java\testCase\testng.xml"
+07:38:01.396 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\vasud\Desktop\testing class\OpencartV1.0\src\test\java\testCase\testng.xml
+
+07:38:05.265 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:15)oggger - *****TC001_Verify_Account_Registration******
+07:38:05.515 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:21)oggger - **Clicked My Acoount**
+07:38:05.970 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:23)oggger - **Registered My Acoount**
+07:38:07.828 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:42)oggger - **Successfully Enter the All Details**
+07:38:07.898 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:49)oggger - Confirmation message received: Your Account Has Been Created!
+07:38:07.899 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:64)oggger - Account register completed
+07:38:10.787 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:15)oggger - *******Starting Account Login*********
+07:38:10.787 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:17)oggger - Clicked My Account
+07:38:10.972 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:21)oggger - Clicked Login
+07:38:11.325 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:23)oggger - Sending valid credentials to Login and Click the Button
+07:38:12.452 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:29)oggger - Checking Account Page Exists or Not 
+07:38:12.549 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:35)oggger - **************LogIn successfully Completed*******************
+07:43:40.058 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\vasud\Desktop\testing class\OpencartV1.0\src\test\java\testCase\testng.xml"
+07:43:40.561 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\vasud\Desktop\testing class\OpencartV1.0\src\test\java\testCase\testng.xml
+
+07:43:44.342 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:15)oggger - *****TC001_Verify_Account_Registration******
+07:43:44.578 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:21)oggger - **Clicked My Acoount**
+07:43:45.024 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:23)oggger - **Registered My Acoount**
+07:43:46.971 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:42)oggger - **Successfully Enter the All Details**
+07:43:47.044 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:49)oggger - Confirmation message received: Your Account Has Been Created!
+07:43:47.045 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:64)oggger - Account register completed
+07:43:49.886 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:15)oggger - *******Starting Account Login*********
+07:43:49.887 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:17)oggger - Clicked My Account
+07:43:50.066 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:21)oggger - Clicked Login
+07:43:50.404 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:23)oggger - Sending valid credentials to Login and Click the Button
+07:43:50.853 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:29)oggger - Checking Account Page Exists or Not 
+07:43:51.680 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:35)oggger - **************LogIn successfully Completed*******************
+14:35:16.683 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\vasud\Desktop\testing class\OpencartV1.0\src\test\java\testCase\testng.xml"
+14:35:17.323 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\vasud\Desktop\testing class\OpencartV1.0\src\test\java\testCase\testng.xml
+
+14:35:23.051 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\vasud\Desktop\testing class\OpencartV1.0\src\test\java\testCase\testng.xml"
+14:35:23.369 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:15)oggger - *****TC001_Verify_Account_Registration******
+14:35:23.570 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\vasud\Desktop\testing class\OpencartV1.0\src\test\java\testCase\testng.xml
+
+14:35:23.632 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:21)oggger - **Clicked My Acoount**
+14:35:24.084 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:23)oggger - **Registered My Acoount**
+14:35:25.966 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:42)oggger - **Successfully Enter the All Details**
+14:35:26.032 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:49)oggger - Confirmation message received: Your Account Has Been Created!
+14:35:26.032 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:64)oggger - Account register completed
+14:35:27.347 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:15)oggger - *****TC001_Verify_Account_Registration******
+14:35:27.614 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:21)oggger - **Clicked My Acoount**
+14:35:28.091 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:23)oggger - **Registered My Acoount**
+14:35:29.753 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:42)oggger - **Successfully Enter the All Details**
+14:35:29.814 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:49)oggger - Confirmation message received: Your Account Has Been Created!
+14:35:29.815 [main] INFO  testCase.TC001_Verify_Account_Registration.account_Registration(TC001_Verify_Account_Registration.java:64)oggger - Account register completed
+14:35:30.111 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:15)oggger - *******Starting Account Login*********
+14:35:30.111 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:17)oggger - Clicked My Account
+14:35:30.292 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:21)oggger - Clicked Login
+14:35:30.626 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:23)oggger - Sending valid credentials to Login and Click the Button
+14:35:31.817 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:29)oggger - Checking Account Page Exists or Not 
+14:35:31.924 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:35)oggger - **************LogIn successfully Completed*******************
+14:35:32.637 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:15)oggger - *******Starting Account Login*********
+14:35:32.638 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:17)oggger - Clicked My Account
+14:35:32.801 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:21)oggger - Clicked Login
+14:35:33.262 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:23)oggger - Sending valid credentials to Login and Click the Button
+14:35:33.680 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:29)oggger - Checking Account Page Exists or Not 
+14:35:34.451 [main] INFO  testCase.TC002_Login.login_Acoount(TC002_Login.java:35)oggger - **************LogIn successfully Completed*******************
