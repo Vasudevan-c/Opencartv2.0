@@ -8,9 +8,9 @@ import java.time.Duration;
 import java.util.Date;
 import java.util.Properties;
 
-import org.apache.logging.log4j.LogManager;
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.lang3.RandomStringUtils;
+import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
@@ -95,26 +95,30 @@ public class TestBase {
 	
 	
 	public String captureScreen(String tname) throws IOException {
+	    if (driver == null) {
+	        throw new RuntimeException("WebDriver is not initialized!");
+	    }
 
 	    String timestamp = new SimpleDateFormat("yyyyMMddHHmmss").format(new Date());
 	    TakesScreenshot ts = (TakesScreenshot) driver;
 	    File sourceFile = ts.getScreenshotAs(OutputType.FILE);
 
-	    String screenshotDir = System.getProperty("user.dir") + "\\screenshots\\";
+	    String screenshotDir = System.getProperty("user.dir") + File.separator + "screenshots";
 	    File targetDir = new File(screenshotDir);
 	    if (!targetDir.exists()) {
 	        targetDir.mkdirs(); // Create the screenshots directory if it doesn't exist
 	    }
 
-	    String targetFilePath = screenshotDir + tname + "_" + timestamp + ".png";
+	    tname = tname.replaceAll("[^a-zA-Z0-9]", "_"); // Sanitize filename
+	    String targetFilePath = screenshotDir + File.separator + tname + "_" + timestamp + ".png";
 	    File targetFile = new File(targetFilePath);
 
-	    // This is reliable
 	    FileUtils.copyFile(sourceFile, targetFile);
 
+	    System.out.println("Screenshot saved at: " + targetFilePath);
 	    return targetFilePath;
 	}
-	
+
 	
 	
 	

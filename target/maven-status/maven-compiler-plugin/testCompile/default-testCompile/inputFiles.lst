@@ -1,9 +1,9 @@
-C:\Users\vasud\Desktop\testing class\OpencartV1.0\src\test\java\baseClass\TestBase.java
-C:\Users\vasud\Desktop\testing class\OpencartV1.0\src\test\java\pageObjects\AccountRegistrationPage.java
-C:\Users\vasud\Desktop\testing class\OpencartV1.0\src\test\java\utilities\ExtentReportManager.java
-C:\Users\vasud\Desktop\testing class\OpencartV1.0\src\test\java\pageObjects\myAccountPage.java
-C:\Users\vasud\Desktop\testing class\OpencartV1.0\src\test\java\testCase\TC002_Login.java
-C:\Users\vasud\Desktop\testing class\OpencartV1.0\src\test\java\pageObjects\HomePage.java
-C:\Users\vasud\Desktop\testing class\OpencartV1.0\src\test\java\pageObjects\BasePage.java
-C:\Users\vasud\Desktop\testing class\OpencartV1.0\src\test\java\pageObjects\LoginPage.java
-C:\Users\vasud\Desktop\testing class\OpencartV1.0\src\test\java\testCase\TC001_Verify_Account_Registration.java
+C:\Users\vasud\Desktop\testingclass\OpencartV1.0\src\test\java\pageObjects\HomePage.java
+C:\Users\vasud\Desktop\testingclass\OpencartV1.0\src\test\java\baseClass\TestBase.java
+C:\Users\vasud\Desktop\testingclass\OpencartV1.0\src\test\java\pageObjects\AccountRegistrationPage.java
+C:\Users\vasud\Desktop\testingclass\OpencartV1.0\src\test\java\pageObjects\BasePage.java
+C:\Users\vasud\Desktop\testingclass\OpencartV1.0\src\test\java\pageObjects\LoginPage.java
+C:\Users\vasud\Desktop\testingclass\OpencartV1.0\src\test\java\pageObjects\myAccountPage.java
+C:\Users\vasud\Desktop\testingclass\OpencartV1.0\src\test\java\testCase\TC001_Verify_Account_Registration.java
+C:\Users\vasud\Desktop\testingclass\OpencartV1.0\src\test\java\utilities\ExtentReportManager.java
+C:\Users\vasud\Desktop\testingclass\OpencartV1.0\src\test\java\testCase\TC002_Login.java
